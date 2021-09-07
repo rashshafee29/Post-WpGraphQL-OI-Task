@@ -36,6 +36,7 @@ const theme = responsiveFontSizes(createTheme({
       },
       primary: {
         main: '#e74c3c',
+        red: '#c0392b'
       },
       date: {
         main: '#c0392b',
